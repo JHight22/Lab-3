@@ -14,7 +14,7 @@ public class IsPrimeMethod {
 
     public static void main(String[] args) {
 
-        System.out.println("Please enter a whole number");
+        System.out.println("Please enter a positive whole number");
 
         Scanner keyboard = new Scanner(System.in);
 
